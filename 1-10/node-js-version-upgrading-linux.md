@@ -28,15 +28,18 @@
          ```sh
          sudo n stable
          ```
+         ![npm](../assets/node-js-version-update/stable-version-installing.png)
     2. Install the **Latest** version
         ```sh
         sudo n latest
         ```
+        ![npm](../assets/node-js-version-update/installing-latest-version.png)
     3. Install a version of you choice
         ```sh
         sudo n [version.number]
         ```
         for example
         ```sh
-        sudo n 18.0.1
+        sudo n 19.0.0
         ```
+        ![npm](../assets/node-js-version-update/installing-any-version.png)
