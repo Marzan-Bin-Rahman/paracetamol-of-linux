@@ -23,3 +23,20 @@
     sudo npm install -g n
     ```
     ![npm](../assets/node-js-version-update/install-node-version-manager.png)
+3. Now you have three choice. Either install the latest version or the stable version or any other version you want.
+      1. Install the **Stable** version
+         ```sh
+         sudo n stable
+         ```
+    2. Install the **Latest** version
+        ```sh
+        sudo n latest
+        ```
+    3. Install a version of you choice
+        ```sh
+        sudo n [version.number]
+        ```
+        for example
+        ```sh
+        sudo n 18.0.1
+        ```
