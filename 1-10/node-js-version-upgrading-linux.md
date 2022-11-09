@@ -13,4 +13,13 @@
      ```sh
     sudo dnf install npm
      ```
-![npm](../assets/node-js/npm-cache-cleaning.png)
+
+### Now you are ready to update your Node.js version
+1. ```sh
+    npm cache clean -f
+    ```
+    ![npm](../assets/node-js-version-update/npm-cache-cleaning.png)
+2. ```sh
+    sudo npm install -g n
+    ```
+    ![npm](../assets/node-js-version-update/install-node-version-manager.png)
