@@ -9,7 +9,8 @@
      ```sh
     sudo apt install npm
      ```
-     Install npm in Fedora and in its derivatives
+     Install npm in Fedora and in it's derivatives
      ```sh
     sudo dnf install npm
      ```
+![npm](../assets/node-js/npm-cache-cleaning.png)
