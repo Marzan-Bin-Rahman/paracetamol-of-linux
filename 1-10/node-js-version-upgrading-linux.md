@@ -24,17 +24,17 @@
     ```
     ![npm](../assets/node-js-version-update/install-node-version-manager.png)
 3. Now you have three choice. Either install the latest version or the stable version or any other version you want.
-      1. Install the **Stable** version
-         ```sh
-         sudo n stable
-         ```
-         ![npm](../assets/node-js-version-update/stable-version-installing.png)
-    2. Install the **Latest** version
+   1. Install the **Latest** version
         ```sh
         sudo n latest
         ```
         ![npm](../assets/node-js-version-update/installing-latest-version.png)
-    3. Install a version of you choice
+    2. Install the **Stable** version
+         ```sh
+         sudo n stable
+         ```
+         ![npm](../assets/node-js-version-update/stable-version-installing.png)
+    3. Install a **version of you choice**
         ```sh
         sudo n [version.number]
         ```
@@ -43,3 +43,5 @@
         sudo n 19.0.0
         ```
         ![npm](../assets/node-js-version-update/installing-any-version.png)
+
+#### And in this way you can update your node version. :star2: If you face any issue, you can create an issue. I will try to solve it.
