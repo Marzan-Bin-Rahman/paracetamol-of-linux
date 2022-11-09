@@ -15,11 +15,13 @@
      ```
 
 ### Now you are ready to update your Node.js version
-1. ```sh
+1. Clear the cache of npm
+   ```sh
     npm cache clean -f
     ```
     ![npm](../assets/node-js-version-update/npm-cache-cleaning.png)
-2. ```sh
+2. Install Node version manager
+   ```sh
     sudo npm install -g n
     ```
     ![npm](../assets/node-js-version-update/install-node-version-manager.png)
@@ -44,4 +46,4 @@
         ```
         ![npm](../assets/node-js-version-update/installing-any-version.png)
 
-#### And in this way you can update your node version. :star2: If you face any issue, you can create an issue. I will try to solve it.
+#### And in this way you can update your node version. If you face any issue, you can create an issue. I will try to solve it. :star2:
