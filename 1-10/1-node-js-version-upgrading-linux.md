@@ -19,23 +19,23 @@
    ```sh
     npm cache clean -f
     ```
-    ![npm](../assets/node-js-version-update/npm-cache-cleaning.png)
+    ![Cleaning cache of npm](../assets/node-js-version-update/npm-cache-cleaning.png "Cleaning cache of npm")
 2. Install Node version manager
    ```sh
     sudo npm install -g n
     ```
-    ![npm](../assets/node-js-version-update/install-node-version-manager.png)
+    ![Installing node version manager](../assets/node-js-version-update/install-node-version-manager.png "Installing node version manager")
 3. Now you have three choice. Either install the latest version or the stable version or any other version you want.
    1. Install the **Latest** version
         ```sh
         sudo n latest
         ```
-        ![npm](../assets/node-js-version-update/installing-latest-version.png)
+        ![How to install node js latest version using terminal](../assets/node-js-version-update/installing-latest-version.png "How to install node js latest version using terminal")
     2. Install the **Stable** version
          ```sh
          sudo n stable
          ```
-         ![npm](../assets/node-js-version-update/stable-version-installing.png)
+         ![How to install node js stable version using terminal](../assets/node-js-version-update/stable-version-installing.png "How to install node js stable version using terminal")
     3. Install a **version of you choice**
         ```sh
         sudo n [version.number]
@@ -44,6 +44,6 @@
         ```sh
         sudo n 19.0.0
         ```
-        ![npm](../assets/node-js-version-update/installing-any-version.png)
+        ![How to install node js any version using terminal](../assets/node-js-version-update/installing-any-version.png "How to install node js latest version using terminal")
 
 #### And in this way you can update your node version. If you face any issue, you can create an issue. I will try to solve it. :star2:
