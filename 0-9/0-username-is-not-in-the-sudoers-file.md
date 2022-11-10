@@ -1,6 +1,6 @@
 # **Problem - 0 :** I am unable to be root user in debian after fresh installation. It shows 'My username is not in the sudoers file'.
 
-#### After a fresh installtion of Debian or any other distro you might face some trouble while beeing root or using the sudo command. So, I have a solution for you. Follow the steps below -
+#### **Description:** After a fresh installtion of Debian or any other distro you might face some trouble while beeing root or using the sudo command. So, I have a solution for you. Follow the steps below -
 
 - Open your terminal.
 - Type
