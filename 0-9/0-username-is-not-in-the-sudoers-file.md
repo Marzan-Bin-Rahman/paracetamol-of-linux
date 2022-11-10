@@ -18,10 +18,12 @@
      ```sh
      your-username  ALL=(ALL:ALL) ALL
      ``` 
-     Here my username is "marzan" and so I have used "marzan" in the place of "your-username" <br>
+     Here my username is "marzan" and so I have used "marzan" in the place of "your-username" . **Replace your username with "your-username"**<br>
      ![Adding our targeted line](../assets/0-username-is-not-the-sudoers-fie/edited-version.png "Adding our targeted line")
 - We are about to end. Only some steps are left. Now, press `ctrl + x` and a window will open up. Just type a capital Y
      ![Save modified buffer](../assets/0-username-is-not-the-sudoers-fie/modified-buffer.png "Save modified buffer")
      <br>
      And then another prompt will open. Here, press enter.
      ![Press enter to save it](../assets/0-username-is-not-the-sudoers-fie/enter.png "Press enter to save it")
+
+#### And in this way you can solve sudoers problem. If you face any issue, you can create an issue. I will try to solve it. :star2:
